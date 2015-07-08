@@ -1,0 +1,322 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "work@justlex.com",
+    "longName": "TEAM HUMAN WATCH",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/42kat.png",
+                "name": "42",
+                "type": "png"
+            },
+            {
+                "file": "images/75alex.png",
+                "name": "41",
+                "type": "png"
+            },
+            {
+                "file": "images/58jouradn.png",
+                "name": "58",
+                "type": "png"
+            },
+            {
+                "file": "images/57david.png",
+                "name": "57",
+                "type": "png"
+            },
+            {
+                "file": "images/56madonna.png",
+                "name": "56",
+                "type": "png"
+            },
+            {
+                "file": "images/55india.png",
+                "name": "55",
+                "type": "png"
+            },
+            {
+                "file": "images/54jlo.png",
+                "name": "54",
+                "type": "png"
+            },
+            {
+                "file": "images/53boone.png",
+                "name": "53",
+                "type": "png"
+            },
+            {
+                "file": "images/52emma.png",
+                "name": "52",
+                "type": "png"
+            },
+            {
+                "file": "images/51chael.png",
+                "name": "51",
+                "type": "png"
+            },
+            {
+                "file": "images/50tanner.png",
+                "name": "50",
+                "type": "png"
+            },
+            {
+                "file": "images/49shane.png",
+                "name": "49",
+                "type": "png"
+            },
+            {
+                "file": "images/48adam.png",
+                "name": "48",
+                "type": "png"
+            },
+            {
+                "file": "images/47adam.png",
+                "name": "47",
+                "type": "png"
+            },
+            {
+                "file": "images/46neil.png",
+                "name": "46",
+                "type": "png"
+            },
+            {
+                "file": "images/45joey.png",
+                "name": "45",
+                "type": "png"
+            },
+            {
+                "file": "images/44han.png",
+                "name": "44",
+                "type": "png"
+            },
+            {
+                "file": "images/43jim.png",
+                "name": "43",
+                "type": "png"
+            },
+            {
+                "file": "images/40pope.png",
+                "name": "40",
+                "type": "png"
+            },
+            {
+                "file": "images/39katy.png",
+                "name": "39",
+                "type": "png"
+            },
+            {
+                "file": "images/35girls.png",
+                "name": "35",
+                "type": "png"
+            },
+            {
+                "file": "images/38nick.png",
+                "name": "38",
+                "type": "png"
+            },
+            {
+                "file": "images/37miley.png",
+                "name": "37",
+                "type": "png"
+            },
+            {
+                "file": "images/36grey.png",
+                "name": "36",
+                "type": "png"
+            },
+            {
+                "file": "images/34bordain.png",
+                "name": "34",
+                "type": "png"
+            },
+            {
+                "file": "images/33swift.png",
+                "name": "33",
+                "type": "png"
+            },
+            {
+                "file": "images/32wren.png",
+                "name": "32",
+                "type": "png"
+            },
+            {
+                "file": "images/31putin.png",
+                "name": "31",
+                "type": "png"
+            },
+            {
+                "file": "images/logo.png",
+                "menuIcon": true,
+                "name": "logo",
+                "type": "png"
+            },
+            {
+                "file": "images/60lex.png",
+                "name": "60",
+                "type": "png"
+            },
+            {
+                "file": "images/30beyonce.png",
+                "name": "30",
+                "type": "png"
+            },
+            {
+                "file": "images/29ronda.png",
+                "name": "29",
+                "type": "png"
+            },
+            {
+                "file": "images/28conan.png",
+                "name": "28",
+                "type": "png"
+            },
+            {
+                "file": "images/27meat.png",
+                "name": "27",
+                "type": "png"
+            },
+            {
+                "file": "images/26carmac.png",
+                "name": "26",
+                "type": "png"
+            },
+            {
+                "file": "images/25dan.png",
+                "name": "25",
+                "type": "png"
+            },
+            {
+                "file": "images/24clinton.png",
+                "name": "24",
+                "type": "png"
+            },
+            {
+                "file": "images/23staments.png",
+                "name": "23",
+                "type": "png"
+            },
+            {
+                "file": "images/22gina.png",
+                "name": "22",
+                "type": "png"
+            },
+            {
+                "file": "images/21connor.png",
+                "name": "21",
+                "type": "png"
+            },
+            {
+                "file": "images/20jre.png",
+                "name": "20",
+                "type": "png"
+            },
+            {
+                "file": "images/19musk.png",
+                "name": "19",
+                "type": "png"
+            },
+            {
+                "file": "images/10oprah.png",
+                "name": "10",
+                "type": "png"
+            },
+            {
+                "file": "images/18kess.png",
+                "name": "18",
+                "type": "png"
+            },
+            {
+                "file": "images/17khan.png",
+                "name": "17",
+                "type": "png"
+            },
+            {
+                "file": "images/16just.png",
+                "name": "16",
+                "type": "png"
+            },
+            {
+                "file": "images/15rock.png",
+                "name": "15",
+                "type": "png"
+            },
+            {
+                "file": "images/14neil.png",
+                "name": "14",
+                "type": "png"
+            },
+            {
+                "file": "images/13mike.png",
+                "name": "13",
+                "type": "png"
+            },
+            {
+                "file": "images/12lilcoach.png",
+                "name": "12",
+                "type": "png"
+            },
+            {
+                "file": "images/11ferris.png",
+                "name": "11",
+                "type": "png"
+            },
+            {
+                "file": "images/9dt.png",
+                "name": "9",
+                "type": "png"
+            },
+            {
+                "file": "images/8swift.png",
+                "name": "8",
+                "type": "png"
+            },
+            {
+                "file": "images/7eric.png",
+                "name": "7",
+                "type": "png"
+            },
+            {
+                "file": "images/6buzz.png",
+                "name": "6",
+                "type": "png"
+            },
+            {
+                "file": "images/5ortiz.png",
+                "name": "5",
+                "type": "png"
+            },
+            {
+                "file": "images/4carli.png",
+                "name": "4",
+                "type": "png"
+            },
+            {
+                "file": "images/3obama.png",
+                "name": "3",
+                "type": "png"
+            },
+            {
+                "file": "images/2dali.png",
+                "name": "2",
+                "type": "png"
+            },
+            {
+                "file": "images/images.png",
+                "name": "1",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "TEAM HUMAN WATCH",
+    "uuid": "7c450661-8f6a-4cb6-8734-97313b7a4eb8",
+    "versionCode": 1,
+    "versionLabel": "2.01",
+    "watchapp": {
+        "watchface": true
+    }
+}
