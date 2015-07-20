@@ -481,13 +481,13 @@ static void update_time() {
 
 }
 
-static void accel_handler(AccelData *data, uint32_t num_samples) {
-  // If facing up Light It Up!!!
-  if(((data[0].z < -980) && (data[0].z >-1020))&& ((data[1].z < -980) && (data[1].z >-1020)) && ((data[2].z < -980) && (data[2].z >-1020)) ){
-    light_enable_interaction();
-      update_time();
-    }  
-}
+// static void accel_handler(AccelData *data, uint32_t num_samples) {
+//   // If facing up Light It Up!!!
+//   if(((data[0].z < -980) && (data[0].z >-1020))&& ((data[1].z < -980) && (data[1].z >-1020)) && ((data[2].z < -980) && (data[2].z >-1020)) ){
+//     light_enable_interaction();
+//       update_time();
+//     }  
+// }
 static void handle_battery(BatteryChargeState charge_state) {
   static char battery_text[] = "100% charged";
 
@@ -571,8 +571,8 @@ static void init() {
   // Register with TickTimerService
   tick_timer_service_subscribe(MINUTE_UNIT, tick_handler);
   // Subscribe to the accelerometer data service
-    int num_samples = 3;
-    accel_data_service_subscribe(num_samples, accel_handler);
+//    int num_samples = 3;
+//    accel_data_service_subscribe(num_samples, accel_handler);
 
     // Choose update rate
     accel_service_set_sampling_rate(ACCEL_SAMPLING_10HZ);
@@ -582,8 +582,7 @@ static void init() {
   #ifdef PBL_SDK_2
     window_set_fullscreen(s_main_window, true);
   #endif
-
-
+    
   // Set handlers to manage the elements inside the Window
   window_set_window_handlers(s_main_window, (WindowHandlers) {
     .load = main_window_load,
